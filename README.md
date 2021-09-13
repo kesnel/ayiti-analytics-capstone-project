@@ -1,2 +1,2 @@
-# ayiti-analytics-capstone-project
+# Capstone project
 ayiti analytics capstone project
