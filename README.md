@@ -28,3 +28,17 @@ For this project we will be using the World Trade Organization(WTO) data portal 
   <li> World Trade Organization (WTO) (https://www.wto.org/) </li>
   <li> WTO Database portal (https://data.wto.org/) </li>
  </ul>
+ 
+ 
+### File Structure
+``` sh
+.
+├── EDA.ipynb # Exploratory data analysis file with jupyter notebook
+├── LICENSE # Github license
+├── README.md # Markdown file
+├── data # Dataset folder
+│   ├── WtoData_worldwide_export_from_2010_to_2022.xlsx 
+│   └── WtoData_worldwide_import_from_2010_to_2022.xlsx # This excel file contains all products imported from the world for each country
+└── output
+    └── data # To save clean data file
+```
