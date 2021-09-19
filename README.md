@@ -24,7 +24,7 @@ For this project we will be using the World Trade Organization(WTO) data portal 
  
  ### Reference
  <ul>
-  <li> [Economy of Haiti on wikipedia](https://en.wikipedia.org/wiki/Economy_of_Haiti/) </li>
-  <li> [World Trade Organization (WTO)](https://www.wto.org/) </li>
-  <li> [WTO Database portal](https://data.wto.org/) </li>
+  <li> Economy of Haiti on wikipedia (https://en.wikipedia.org/wiki/Economy_of_Haiti/) </li>
+  <li> World Trade Organization (WTO) (https://www.wto.org/) </li>
+  <li> WTO Database portal (https://data.wto.org/) </li>
  </ul>
