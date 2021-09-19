@@ -17,9 +17,7 @@ The specific objectives of this project are:
 </ol>
 
 ### Data Source and license:
-For this project we will be using the World Trade Organization(WTO) data portal to have access to. 
-
-[The World Trade Organization(WTO) data portal: Data of imported product from the last ten years](https://data.wto.org)
+For this project we will be using the World Trade Organization(WTO) data portal to have access to [The World Trade Organization(WTO) data portal: Data of imported product from the last ten years](https://data.wto.org)
 
  ### Acknowledgements
  The WTO Data portal contains statistical indicators, Available time series cover merchandise trade and trade in services statistics, market access indicators (bound, applied & preferential tariffs), non-tariff information as well as other indicators.
