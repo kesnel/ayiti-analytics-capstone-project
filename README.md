@@ -3,6 +3,19 @@
 ### Summary
 This project focuses on how the country will be able to know the right market to export their products. This will allow the country to get a good guide on foreign trade, and know which countries have High demand in different sectors, especially agricultural products.
 
+### File Structure
+``` sh
+.
+├── EDA.ipynb
+├── LICENSE
+├── README.md
+├── data
+│   ├── WtoData_worldwide_export_from_2010_to_2022.xlsx
+│   └── WtoData_worldwide_import_from_2010_to_2022.xlsx
+└── output
+    └── data
+```
+
 ### Introduction
 International trade takes place when countries buy goods and services from other countries. Countries sell their products with each other for the same reasons as individuals or local businesses, to have more benefits and earn more money. International trade is a driver of growth: it creates jobs, reduces poverty and opens up economic prospects.
 
