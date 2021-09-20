@@ -30,7 +30,7 @@ For this project we will be using the World Trade Organization(WTO) data portal 
  </ul>
  
  
-### File Structure
+### Folders/Files Structure
 ``` sh
 .
 ├── EDA.ipynb # Exploratory data analysis file with jupyter notebook
